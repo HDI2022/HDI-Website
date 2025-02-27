@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hunter-Douglas International (HDI)</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; text-align: center; background-color: #f4f4f4; }
+        .container { max-width: 800px; margin: 50px auto; padding: 20px; background: white; box-shadow: 0 0 10px rgba(0,0,0,0.1); border-radius: 10px; }
+        h1 { color: #333; }
+        p { color: #555; }
+        .contact { margin-top: 20px; font-weight: bold; }
+        .image-container { margin-top: 20px; }
+        img { max-width: 100%; border-radius: 10px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Hunter-Douglas International (HDI)</h1>
+        <p>Consulting in Bitcoin Mining, Power Generation, and HPC</p>
+        <div class="image-container">
+            <img src="bitcoin-energy-image.jpg" alt="Bitcoin and Energy Infrastructure">
+        </div>
+        <p>HDI serves clients with transparency, integrity, and strategic expertise. We have completed transactions across all aspects of Bitcoin mining, including hardware, infrastructure, land, and hosting space.</p>
+        <p>Our strengths include networking, identifying properties and assets, contract negotiation, and project strategy.</p>
+        <div class="contact">
+            <p>Contact us: <a href="mailto:info@hdi-consulting.com">info@hdi-consulting.com</a></p>
+        </div>
+    </div>
+</body>
+</html>
